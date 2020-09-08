@@ -1,7 +1,6 @@
 import numpy as np
 import tqdm
 from losses.dsm import anneal_dsm_score_estimation
-from losses.sliced_sm import anneal_sliced_score_estimation_vr
 import torch.nn.functional as F
 import logging
 import torch
