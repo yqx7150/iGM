@@ -35,14 +35,7 @@ Then
 ```bash
 python3 iGM_main.py --igm Test_6ch --config anneal.yml --doc your checkpoint --test --image_folder your save path
 ```
-## Graphical representation
- <div align="center"><img src="       " width = "400" height = "450">  </div>
- 
-Performance exhibition of “iGM” strategy.
 
-## Table
-<div align="center"><img src="   "> </div>
-COLORIZATION COMPARISON OF OUR SYSTEM TO STATE-OF-THE-ART TECHNIQUES ON IMAGENET, IN TERMS OF PSNR AND SSIM PERFORMANCE.
 
 ## Checkpoints
 We provide pretrained checkpoints. You can download pretrained models from [Baidu Drive](https://pan.baidu.com/s/1do-Y-13E7NWK2mkE9K912w). 
