@@ -4,6 +4,9 @@
 
 **Authors**: Jinjie Zhou, Kai Hong, Tao Deng, Qiegen Liu
 
+Published in IEEE Signal Processing Letters  
+https://ieeexplore.ieee.org/document/9258392
+
 Date : 9/2020
 Version : 1.0   
 The code and the algorithm are for non-comercial use only. 
