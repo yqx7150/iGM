@@ -46,3 +46,13 @@ key number is "IGM6 "
 
 ## Test Data
 We randomly select 100 bedrooms and church data respectively, the size is 128x128.
+
+
+### Other Related Projects
+
+  * Homotopic Gradients of Generative Density Priors for MR Image Reconstruction  
+[<font size=5>**[Paper]**</font>](https://arxiv.org/abs/2008.06284)   [<font size=5>**[Code]**</font>](https://github.com/yqx7150/HGGDP)
+
+ * Iterative Reconstruction for Low-Dose CT using Deep Gradient Priors of Generative Model  
+[<font size=5>**[Paper]**</font>](https://arxiv.org/abs/2009.12760)   [<font size=5>**[Code]**</font>](https://github.com/yqx7150/EASEL)
+
