@@ -1,6 +1,6 @@
 # iGM
 
-**Paper**: Progressive Colorization via Interative Generative Models
+**Paper**: Progressive Colorization via Iterative Generative Models
 
 **Authors**: Jinjie Zhou, Kai Hong, Tao Deng, Qiegen Liu
 
