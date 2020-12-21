@@ -3,8 +3,7 @@
 **Paper**: Progressive Colorization via Iterative Generative Models
 
 **Authors**: Jinjie Zhou, Kai Hong, Tao Deng, Qiegen Liu
-
-Published in IEEE Signal Processing Letters  
+IEEE Signal Processing Letters, vol. 27, pp. 2054-2058, 2020.  
 https://ieeexplore.ieee.org/document/9258392
 
 Date : 9/2020
