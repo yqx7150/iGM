@@ -45,29 +45,6 @@ key number is "IGM6 "
 ## Test Data
 We randomly select 100 bedrooms and church data respectively, the size is 128x128.
 ## Graphical representation
-
- 
- 
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
- 
- 
- 
-
- 
-
-
-
 ### Other Related Projects
 
   * Homotopic Gradients of Generative Density Priors for MR Image Reconstruction  
