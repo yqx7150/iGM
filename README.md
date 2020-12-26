@@ -49,6 +49,7 @@ We randomly select 100 bedrooms and church data respectively, the size is 128x12
 The interpretation of the generalized ideology behind iGM. To facilitate the exposition, the visual comparison of CVAE  and iGM is depicted in Figure. 
 
 <div align="center"><img src="https://github.com/yqx7150/iGM/blob/master/111111.png"> </div>
+The results of coloring image.
 ### Other Related Projects
 
   * Homotopic Gradients of Generative Density Priors for MR Image Reconstruction  
