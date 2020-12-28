@@ -45,11 +45,11 @@ key number is "IGM6 "
 ## Test Data
 We randomly select 100 bedrooms and church data respectively, the size is 128x128.
 ## Graphical representation
-<div align="center"><img src="https://github.com/yqx7150/iGM//blob/master/1222.png" width = "400" height = "450">  </div>
-The interpretation of the generalized ideology behind iGM. To facilitate the exposition, the visual comparison of CVAE  and iGM is depicted in Figure. 
+<div align="center"><img src="https://github.com/yqx7150/iGM//blob/master/1222.png">  </div>
+The interpretation of the generalized ideology behind iGM. From left to right:CVAE,iGM 
 
 <div align="center"><img src="https://github.com/yqx7150/iGM/blob/master/11111.png"> </div>
-The results of coloring image.
+Four colorized images on LUSN-bedroom and LUSN-church dataset. From left to right:Ground truth, Gray input, Zhang et.al , CGAN, Memopainter, ChromaGAN, iGM-3C, iGM-6C
 
 
 ### Other Related Projects
