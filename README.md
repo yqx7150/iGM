@@ -45,8 +45,10 @@ key number is "IGM6 "
 ## Test Data
 We randomly select 100 bedrooms and church data respectively, the size is 128x128.
 ## Graphical representation
+
 <div align="center"><img src="https://github.com/yqx7150/iGM//blob/master/1222.png">  </div>
 The interpretation of the generalized ideology behind iGM. From left to right:CVAE,iGM 
+
 
 <div align="center"><img src="https://github.com/yqx7150/iGM/blob/master/11111.png"> </div>
 Four colorized images on LUSN-bedroom and LUSN-church dataset. From left to right:Ground truth, Gray input, Zhang et.al , CGAN, Memopainter, ChromaGAN, iGM-3C, iGM-6C
@@ -59,4 +61,6 @@ Four colorized images on LUSN-bedroom and LUSN-church dataset. From left to righ
 
  * Iterative Reconstruction for Low-Dose CT using Deep Gradient Priors of Generative Model  
 [<font size=5>**[Paper]**</font>](https://arxiv.org/abs/2009.12760)   [<font size=5>**[Code]**</font>](https://github.com/yqx7150/EASEL)
+
+ * Joint Intensity-Gradient Guided Generative Modeling for Colorization
 
