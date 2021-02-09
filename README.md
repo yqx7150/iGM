@@ -63,4 +63,4 @@ Four colorized images on LUSN-bedroom and LUSN-church dataset. From left to righ
 [<font size=5>**[Paper]**</font>](https://arxiv.org/abs/2009.12760)   [<font size=5>**[Code]**</font>](https://github.com/yqx7150/EASEL)
 
  * Joint Intensity-Gradient Guided Generative Modeling for Colorization
-                                                                      [<font size=5>**[Code]**</font>](https://github.com/yqx7150/iGM)
+                                                                      [<font size=5>**[Code]**</font>](https://github.com/yqx7150/JGM)
